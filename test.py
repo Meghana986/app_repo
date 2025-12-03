@@ -1,2 +1,2 @@
 print("hello word")
-print("this my first program")
+print("this my first programm")
